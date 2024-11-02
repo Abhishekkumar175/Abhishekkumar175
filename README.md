@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" alt="coding" width="480" height="400" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true">
+<img align="right" alt="coding" width="440" height="380" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar175&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar175" /> </p>
