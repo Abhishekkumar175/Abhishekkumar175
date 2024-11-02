@@ -11,6 +11,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar175&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar175" /> </p>
 
+[![](https://visitcount.itsvg.in/api?id=Abhishekkumar175&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 - 📫 How to reach me **abhishekkumar345ssm@gmail.com**
 
@@ -27,7 +29,8 @@
 
 
 
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar175&" alt="abhishekkumar175" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkumar175&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishekkumar175&theme=dark&hide_border=false)<br/>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
