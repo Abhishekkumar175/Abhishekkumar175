@@ -1,4 +1,4 @@
-![logo](https://github.com/Abhishekkumar175/Abhishekkumar175/blob/main/Profile%20Banner.png)
+![logo](https://github.com/Abhishekkumar175/Abhishekkumar175/blob/main/Banner.png)
 
 <h1 align="center">Hi <img width="50" height ="50"src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, I'm Abhishek Kumar</h1>
 
