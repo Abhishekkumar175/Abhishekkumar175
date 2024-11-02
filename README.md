@@ -1,9 +1,12 @@
 ![logo](https://github.com/Abhishekkumar175/Abhishekkumar175/blob/main/Profile%20Banner.png)
 
 <h1 align="center">Hi <img width="50" height ="50"src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, I'm Abhishek Kumar</h1>
+
 <h3 align="center">Tech enthusiast, problem-solver, exploring web development, algorithms, and open-source, always eager to learn and innovate!</h3>
 
-<img align="right" alt="coding" width="380" height="250" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img align="right" alt="coding" width="480" height="400" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar175&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar175" /> </p>
@@ -25,3 +28,6 @@
 
 
 <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar175&" alt="abhishekkumar175" /></p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
