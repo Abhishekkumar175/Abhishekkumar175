@@ -12,7 +12,7 @@
 
 # 👋 Hi, I'm Abhishek Kumar
 
-🚀 **Software Engineer | MERN Stack Developer | Generative AI Engineer**
+ **Software Engineer | MERN Stack Developer | Generative AI Engineer**
 
 Final-year Computer Science student with strong foundations in **Data Structures & Algorithms, Backend Engineering, and Full-Stack Development**.
 
@@ -22,7 +22,7 @@ I enjoy building **scalable backend systems, AI-powered products, and real-time 
 
 ---
 
-# 🚀 Current Focus
+#  Current Focus
 
 * 🤖 Generative AI Engineering
 * 🧠 LLM Applications
